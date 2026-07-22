@@ -112,7 +112,7 @@
       "type": "command",
       "key": "    \u001b[9;31msystemd\u001b[0m",
       "keyColor": "magenta",
-      "text": "echo \"$(($(($(date +%s) - $(stat -c %W /))) / 86400 +100 )) days liberated\"",
+      "text": "echo \"$(($(($(date +%s) - $(stat -c %W /))) / 86400 )) days liberated\"",
     },
     { "type": "uptime", 
       "key": "  󰅐  Uptime", 
