@@ -88,13 +88,13 @@
       "type": "gpu",
       "key": "  󰢮  GPU",
       "keyColor": "blue",
-      "format": "{1} Radeon Vega Series",
+      "format": "{1} {2}",
     },
     {
       "type": "memory",
       "key": "    Memory",
       "keyColor": "cyan",
-      "format": "{1} / {2} {3}",
+      "format": "{1} / {2}",
     },
     {
       "type": "disk",
